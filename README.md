@@ -1,7 +1,11 @@
-# vscode-audio-player README
+# vscode-audio-player
 
-This is the README for your extension "vscode-audio-player". After writing up a brief description, we recommend including the following sections.
+An audio player inside vscode.
+Also the my first extension,so I plan to make it a extension guide,with details of every step during the developement of it
 
+## History
+
+* [v1](history/v1.md)
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
